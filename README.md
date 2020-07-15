@@ -1,5 +1,8 @@
 Hi, my future self and other eventual lost readers :-)
-This is my first attempt to do an MERN App, and it seems like it as just OK. I need to get more courage to tackle something more complex and hard to get. I've come from an SQL Limited Mindset and I should study MongoDB more and moder development. No matter what I came here and did it.
+This is my first attempt to do an MERN App, and it seems like it was just OK.
+I need to get more courage to tackle something more complex and hard to get.
+Ie come from an SQL Limited Mindset and I should study MongoDB more and moder development. No matter what I came here and did it.
+Plus validation practices and JWT.
 
 Any comments, suggestoins, support and mentoring are more than appreciated.
 
