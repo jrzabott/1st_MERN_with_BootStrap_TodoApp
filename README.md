@@ -1,3 +1,14 @@
+Hi, my future self and other eventual lost readers :-)
+This is my first attempt to do an MERN App, and it seems like it as just OK. I need to get more courage to tackle something more complex and hard to get. I've come from an SQL Limited Mindset and I should study MongoDB more and moder development. No matter what I came here and did it.
+
+Any comments, suggestoins, support and mentoring are more than appreciated.
+
+
+
+
+
+_________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
